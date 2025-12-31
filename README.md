@@ -43,6 +43,3 @@ Notes and tips
 
 Files
 - The scanner entrypoint is `src/main.rs`.
-
-License
-- (Add a license if you want to distribute this project.)
